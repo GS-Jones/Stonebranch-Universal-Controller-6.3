@@ -1,0 +1,7 @@
+Java version updates require changes to Tomcat config files
+
+1 Establish the coreect version of JAVA from DOS CMD / java -version
+2 Navigate to C:\Program Files\Apache Software Foundation\Tomcat 8.0\bin 
+3 Left click Tomcat8w.exe
+4 Choose the JAVA tab and update URL to the JVM = C:*\bin\server\jvm.dll
+5 Task manager / services / start Tomcat
