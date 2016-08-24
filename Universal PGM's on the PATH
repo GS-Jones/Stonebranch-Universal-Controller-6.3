@@ -1,0 +1,4 @@
+Universal binaries on the Windows (10) PATH
+Control panel > choose the button 'environment variables'
+Select PATH from User Variables > choose EDIT > New > either manually add the file path or browse to it > OK.
+Restrart the DOS CMD window.
